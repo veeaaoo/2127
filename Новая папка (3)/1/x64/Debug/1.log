@@ -1,0 +1,4 @@
+﻿  1.c
+E:\VS\1\1\1.c(16,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\VS\1\1\1.c(11,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VS\1\1\1.c(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
